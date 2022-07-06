@@ -1,24 +1,28 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1:93CBFF,150:E1FFED&height=100&section=header&text=H's%20GitHub%20Profile&fontSize=60&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=68&fontAlignY=40)
 ![header](https://capsule-render.vercel.app/api?type=slice&color=1:D5FFA2,150:D9F2C2&height=120&section=header&text=About%20Me&fontSize=50&reversal=&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=50&fontAlignY=80&)
 
-### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhHyeonjun&count_bg=%2367CB7D&title_bg=%23544B49&icon=&icon_color=%23FFE2E2&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhHyeonjun&show_icons=true&theme=dark)
 
 <h3 align="center">
-:cloud: SNS :cloud:
+
+:cloud: SNS :cloud: <br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhHyeonjun&count_bg=%2367CB7D&title_bg=%23544B49&icon=&icon_color=%23FFE2E2&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com) <br>
+
  <a href="https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"><img src="https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat&link=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a>
- 
  <a href="https://www.instagram.com/hye0__n/"><img src="https://img.shields.io/badge/instagram-white.svg?logo=instagram&logoColor=pupple&style=flat&link=https://www.instagram.com/hye0__n/"/></a>
- <br>
  [![https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290](https://img.shields.io/badge/Mail-90EE90?style=flat&logo=naver&logoColor=white)](mailto:guswns0208@naver.com)
- 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dmsgktn0208@gmail.com)
- 
-<p align="center">
+ <br>
 
 <p align="center">
-:wrench: Stack :wrench:
+
+
+<br>
+
+<p align="center">
+🛠 Stack 🛠
 
 ![](https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=black&style=plastic)
@@ -33,30 +37,43 @@
 ![](https://img.shields.io/badge/Prometheus-FFE4E1?logo=Prometheus&logoColor=B22222&style=plastic)
 ![](https://img.shields.io/badge/Grafana-FFFFE0?logo=grafana&logoColor=FF6347&style=plastic)
 
+- [AngularJS] - HTML enhanced for web apps!
+- [Ace Editor] - awesome web-based text editor
+- [markdown-it] - Markdown parser done right. Fast and easy to extend.
+- [Twitter Bootstrap] - great UI boilerplate for modern web apps
+- [node.js] - evented I/O for the backend
+- [Express] - fast node.js network app framework [@tjholowaychuk]
+- [Gulp] - the streaming build system
+- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
+to Markdown converter
+- [jQuery] - duh
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+<p align="center">
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magi
-</p>
+<h3 align="center">
+😀 Who Am I 😀
 
+<p align="center">
+<p align="center">
 
-### Who Am I
----
+<h3 align="center">
+⏱ Experience ⏱
 
-### Experience
----
+<p align="center">
+<p align="center">
 
-### What I Like
----
-- Camping
-- Drama
-- Game
-- Travel
+<h3 align="center">
+ 🎈 What I Like 🎈 <br>
+Camping
+Drama
+Game
+Travel
 
-## Features
+<p align="center">
+<p align="center">
+
+<h3 align="center">
+Features
 
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
@@ -79,23 +96,8 @@ This text you see here is *actually- written in Markdown! To get a feel
 for Markdown's syntax, type some text into the left window and
 watch the results in the right.
 
-## Tech
-
-Dillinger uses a number of open source projects to work properly:
-
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
-
-
-
+<p align="center">
+<p align="center">
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
