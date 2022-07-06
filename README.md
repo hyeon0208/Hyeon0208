@@ -42,42 +42,64 @@
 ![](https://img.shields.io/badge/Node.js-3B3E2E?logo=Node.js&logoColor=9AD94F&style=plastic)
 
 <p align="center">
-
+<br>
 <h3 align="center">
 ⏱ Experience ⏱
-
 <p align="center">
 
+<h6 align="center">
+
+✔️ DevOps
+
+- Docker를 이용하여 애플리케이션 컨테이너화
+- GitHub Action, CodePipeline을 이용하여 배포 자동화 구축
+- Terraform을 이용하여 AWS 인프라 구축
+- GitHub를 이용하여 협업 ( 칸반보드, 이슈 활용 )
+- kubernetes를 이용하여 간단한 컨테이너 오케스트레이션 경험
+- k6를 이용한 HTTP Request 부하 테스트
+- Prometheus, Grafana를 이용하여 모니터링 시스템 구축
+
+✔️ AWS
+
+- CloudFormation template을 활용하여 인프라 관리
+- SAM(Serverless Application Model)을 활용하여 Lambda 배포
+- Lambda를 이용해 트리거 발생시 함수를 실행하여 Discord 웹훅 구현
+- AWS 리소스를 이해하여 MSA 아키텍처 구현
+- Cost Explorer를 이용하여 리소스 비용 관리
+- OpenSearch를 이용해 로그를 필터링하여 대쉬보드로 확인
+- 부하 분산을 위한 ELB 와 수평 확장을 위한 Auto Scailng 연결
+- Route53과 ACM을 이용해 HTTPS 서버 구현
+- Routing Table, IGW, NAT 을 이용해 VPC 구성 및 Private, Public Subnet 구성
+- VPC peering 을 이용하여 VPC 간 내부 통신
+- AMI를 생성하여 인스턴스 복제 및 EC2 마이그레이션
+
+✔️ Backend
+
+- My SQL, MongoDB와 node.js로  WAS 서버 구현
+- node.js를 이용하여 3-tier 아키텍처 구현
+- Nginx를 이용하여 간단한 정적 웹서버 구현
+<p align="center">
+
+<br>
 <h3 align="center">
+
  🎈 My Hobby 🎈 <br>
- ![](https://img.shields.io/badge/Camping-F7FEFD?logo=&logoColor=FF6347&style=flat)
+ 
+ 
+![](https://img.shields.io/badge/Camping-F7FEFD?logo=&logoColor=FF6347&style=flat)
 ![](https://img.shields.io/badge/Travel-F7FEFD?logo=&logoColor=FF6347&style=flat)
 ![](https://img.shields.io/badge/Game-F7FEFD?logo&logoColor=FF6347&style=flat)
 ![](https://img.shields.io/badge/Drama-F7FEFD?logo=&logoColor=FF6347&style=flat)
 ![](https://img.shields.io/badge/Shopping-F7FEFD?logo=&logoColor=FF6347&style=flat)
-<p align="center">
 
+<p align="center">
+<br>
 <h3 align="center">
-Features
+
+🍏 Features 🍏
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhHyeonjun&show_icons=true&theme=dark)
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
-
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
 
 <p align="center">
 
