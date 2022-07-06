@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1:93CBFF,150:E1FFED&height=100&section=header&text=H's%20GitHub%20Profile&fontSize=47&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=75&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1:D5FFA2,160:93CBFF&height=130&section=header&text=H's%20GitHub%20Profile&fontSize=47&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=75&fontAlignY=40)
+<h3 align="center">
+🙌🏻 안녕하십니까 개발자를 꿈꾸는 서현준 입니다. 🙌🏻
+<p align="center">
+<font size="1">
+</font>
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=1:D5FFA2,150:91BFA2&height=120&section=header&text=About%20Me&fontSize=50&reversal=&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=84&fontAlignY=48)
 
 <h3 align="center">
@@ -35,39 +41,20 @@
 ![](https://img.shields.io/badge/Grafana-FFFFE0?logo=grafana&logoColor=FF6347&style=plastic)
 ![](https://img.shields.io/badge/Node.js-3B3E2E?logo=Node.js&logoColor=9AD94F&style=plastic)
 
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
-
-<p align="center">
-
-<h3 align="center">
-😀 Who Am I 😀
-
-<p align="center">
 <p align="center">
 
 <h3 align="center">
 ⏱ Experience ⏱
 
 <p align="center">
-<p align="center">
 
 <h3 align="center">
- 🎈 What I Like 🎈 <br>
-Camping
-Drama
-Game
-Travel
-
-<p align="center">
+ 🎈 My Hobby 🎈 <br>
+ ![](https://img.shields.io/badge/Camping-F7FEFD?logo=&logoColor=FF6347&style=flat)
+![](https://img.shields.io/badge/Travel-F7FEFD?logo=&logoColor=FF6347&style=flat)
+![](https://img.shields.io/badge/Game-F7FEFD?logo&logoColor=FF6347&style=flat)
+![](https://img.shields.io/badge/Drama-F7FEFD?logo=&logoColor=FF6347&style=flat)
+![](https://img.shields.io/badge/Shopping-F7FEFD?logo=&logoColor=FF6347&style=flat)
 <p align="center">
 
 <h3 align="center">
@@ -81,10 +68,6 @@ Features
 - Drag and drop markdown and HTML files into Dillinger
 - Export documents as Markdown, HTML and PDF
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
-
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
 > as possible. The idea is that a
@@ -96,7 +79,6 @@ This text you see here is *actually- written in Markdown! To get a feel
 for Markdown's syntax, type some text into the left window and
 watch the results in the right.
 
-<p align="center">
 <p align="center">
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
