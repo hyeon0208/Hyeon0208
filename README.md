@@ -16,20 +16,37 @@ or for sharing and reviewing new knowledge. 🤝<br>
 
 <h3 align="center">
 
+🙋🏻‍♂️ information 🙋🏻‍♂️
+<p align="center">
+
+<h6 align="center">
+
+Eglish Name : Hyeon Jun Suh<br>
+Korea Name : 서현준<br>
+Age : 19960208<br>
+
+<p align="center">
+
+***
+
+<h3 align="center">
+
 :cloud: SNS :cloud: <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhHyeonjun&count_bg=%2367CB7D&title_bg=%23544B49&icon=&icon_color=%23FFE2E2&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com) <br>
 
  <a href="https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"><img src="https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat&link=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a>
- <a href="https://www.instagram.com/hye0__n/"><img src="https://img.shields.io/badge/instagram-white.svg?logo=instagram&logoColor=pupple&style=flat&link=https://www.instagram.com/hye0__n/"/></a>
- [![https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290](https://img.shields.io/badge/Mail-90EE90?style=flat&logo=naver&logoColor=white)](mailto:guswns0208@naver.com)
+ <a href="https://www.instagram.com/hye0__n/"><img src="https://img.shields.io/badge/instagram-F1C2FF.svg?logo=instagram&logoColor=pupple&style=flat&link=https://www.instagram.com/hye0__n/"/></a>
+ [![https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290](https://img.shields.io/badge/Naver-90EE90?style=flat&logo=naver&logoColor=white)](mailto:guswns0208@naver.com)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dmsgktn0208@gmail.com)
  <br>
 
 <p align="center">
 
 
-<br>
+<br
+
+***
 
 <p align="center">
 🛠 Stack 🛠
@@ -50,6 +67,9 @@ or for sharing and reviewing new knowledge. 🤝<br>
 
 <p align="center">
 <br>
+
+***
+
 <h3 align="center">
 ⏱ Experience ⏱
 <p align="center">
@@ -88,6 +108,9 @@ or for sharing and reviewing new knowledge. 🤝<br>
 <p align="center">
 
 <br>
+
+***
+
 <h3 align="center">
 
  🎈 My Hobby 🎈 <br>
@@ -101,6 +124,9 @@ or for sharing and reviewing new knowledge. 🤝<br>
 
 <p align="center">
 <br>
+
+***
+
 <h3 align="center">
 
 🍏 Features 🍏
