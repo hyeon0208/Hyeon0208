@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1:93CBFF,150:E1FFED&height=100&section=header&text=H's%20GitHub%20Profile&fontSize=60&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=68&fontAlignY=40)
 ### DevOps
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=1:D3F472,150:7EFF9B&height=140&section=header&text=About%20Me&fontSize=50&reversal=&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=50&fontAlignY=50&)
+![header](https://capsule-render.vercel.app/api?type=slice&color=1:D5FFA2,150:D9F2C2&height=120&section=header&text=About%20Me&fontSize=50&reversal=&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=50&fontAlignY=80&)
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=1:82FFEC,150:ECFFFC&height=140&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=1:C9F9EE,150:ECFFFC&height=120&section=footer)
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhHyeonjun&count_bg=%2367CB7D&title_bg=%23544B49&icon=&icon_color=%23FFE2E2&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 
