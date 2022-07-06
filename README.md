@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1:93CBFF,150:F5FFFA&height=230&section=header&text=H's%20GitHub%20Profile&fontSize=60&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=68&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1:93CBFF,150:E1FFED&height=100&section=header&text=H's%20GitHub%20Profile&fontSize=60&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=68&fontAlignY=40)
 ### DevOps
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=1:D3F472,150:7EFF9B&height=140&section=header&text=Suh%20Hyeon%20Jun&fontSize=50&reversal=&section=footer&animation=twinkling&fontColor=09080&fontAlign=50&fontAlignY=50&)
+![header](https://capsule-render.vercel.app/api?type=slice&color=1:D3F472,150:7EFF9B&height=140&section=header&text=About%20Me&fontSize=50&reversal=&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=50&fontAlignY=50&)
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=1:82FFEC,150:ECFFFC&height=140&section=footer)
 
