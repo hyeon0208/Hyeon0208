@@ -1,5 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1:2F4F4F,150:F5FFFA&height=230&section=header&text=Suh%20Hyeon%20Jun&fontSize=60&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1:93CBFF,150:F5FFFA&height=230&section=header&text=H's%20GitHub%20Profile&fontSize=60&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=68&fontAlignY=40)
 ### DevOps
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=1:D3F472,150:7EFF9B&height=140&section=header&text=Suh%20Hyeon%20Jun&fontSize=50&reversal=&section=footer&animation=twinkling&fontColor=09080&fontAlign=50&fontAlignY=50&)
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=1:82FFEC,150:ECFFFC&height=140&section=footer)
+
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhHyeonjun&count_bg=%2367CB7D&title_bg=%23544B49&icon=&icon_color=%23FFE2E2&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhHyeonjun&show_icons=true&theme=dark)
@@ -8,6 +13,10 @@
 
 ### SNS
 ---
+
+  <a href="https://newwisdom.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>&nbsp
+
+
 ![Notion](https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat/notion/url?url=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290)
 [![https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290](https://img.shields.io/badge/Mail-90EE90?style=flat&logo=naver&logoColor=white)](mailto:guswns0208@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dmsgktn0208@gmail.com)
@@ -77,7 +86,6 @@ As [John Gruber] writes on the [Markdown site][df1]
 > publishable as-is, as plain text, without
 > looking like it's been marked up with tags
 > or formatting instructions.
-
 This text you see here is *actually- written in Markdown! To get a feel
 for Markdown's syntax, type some text into the left window and
 watch the results in the right.
