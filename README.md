@@ -6,40 +6,32 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhHyeonjun&show_icons=true&theme=dark)
 
 <h3 align="center">
-### :cloud: SNS :cloud:
-  <a href="https://newwisdom.tistory.com/"><img src="(https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat&link=https://newwisdom.tistory.com"/></a>
-<p align="center">
-
-![Notion](https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat/notion/url?url=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290)
-[![https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290](https://img.shields.io/badge/Mail-90EE90?style=flat&logo=naver&logoColor=white)](mailto:guswns0208@naver.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dmsgktn0208@gmail.com)
-![instagram](https://img.shields.io/badge/instagram-white.svg?logo=instagram&logoColor=pupple&style=plastic)
-
-![button]<a href="https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290" target="_blank"><img src="https://img.shields.io/badge/Notion?style=flat-square&logo=000000&logoColor=white"/></a>
-
-![34423](https://img.shields.io/badge/github-GIVEME--STAR-red)
-
-https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white
-
- <a href="https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290" target="_blank"><img src="https://img.shields.io/badge/000000?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+:cloud: SNS :cloud:
+ <a href="https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"><img src="https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat&link=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a>
+ 
+ <a href="https://www.instagram.com/hye0__n/"><img src="https://img.shields.io/badge/instagram-white.svg?logo=instagram&logoColor=pupple&style=flat&link=https://www.instagram.com/hye0__n/"/></a>
+ <br>
+ [![https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290](https://img.shields.io/badge/Mail-90EE90?style=flat&logo=naver&logoColor=white)](mailto:guswns0208@naver.com)
+ 
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dmsgktn0208@gmail.com)
  
 <p align="center">
-### Stack
----
-![](https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white)&nbsp
-![](https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=black&style=plastic)&nbsp
-![](https://img.shields.io/badge/AWS-FFFAFA?logo=amazonaws&logoColor=black&style=plastic)&nbsp
+
+<p align="center">
+:wrench: Stack :wrench:
+
+![](https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=black&style=plastic)
+![](https://img.shields.io/badge/AWS-FFFAFA?logo=amazonaws&logoColor=black&style=plastic)
 ![](https://img.shields.io/badge/docker-E0FFFF?logo=docker&logoColor=blue&style=plastic)
-<br>
-![](https://img.shields.io/badge/Github-white?logo=Github&logoColor=black&style=plastic)&nbsp
-![](https://img.shields.io/badge/Terraform-E6E6FA?logo=terraform&logoColor=663399&style=plastic)&nbsp
-![](https://img.shields.io/badge/DevOps-00FA9A?logo=&logoColor=663399&style=plastic)&nbsp
+
+![](https://img.shields.io/badge/Github-white?logo=Github&logoColor=black&style=plastic)
+![](https://img.shields.io/badge/Terraform-E6E6FA?logo=terraform&logoColor=663399&style=plastic)
+![](https://img.shields.io/badge/DevOps-00FA9A?logo=&logoColor=663399&style=plastic)
 ![](https://img.shields.io/badge/CI/CD-87CEFA?logo=&logoColor=663399&style=plastic)
-<br>
-![](https://img.shields.io/badge/Prometheus-FFE4E1?logo=Prometheus&logoColor=B22222&style=plastic)&nbsp
+
+![](https://img.shields.io/badge/Prometheus-FFE4E1?logo=Prometheus&logoColor=B22222&style=plastic)
 ![](https://img.shields.io/badge/Grafana-FFFFE0?logo=grafana&logoColor=FF6347&style=plastic)
-
-
 
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
