@@ -19,7 +19,7 @@ or for sharing and reviewing new knowledge. 🤝<br>
 🙋🏻‍♂️ information 🙋🏻‍♂️
 <p align="center">
 
-<h6 align="center">
+<h5 align="center">
 
 Eglish Name : Hyeon Jun Suh<br>
 Korea Name : 서현준<br>
