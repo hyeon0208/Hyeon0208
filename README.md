@@ -1,19 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1:93CBFF,150:E1FFED&height=100&section=header&text=H's%20GitHub%20Profile&fontSize=60&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=68&fontAlignY=40)
-### DevOps
-
 ![header](https://capsule-render.vercel.app/api?type=slice&color=1:D5FFA2,150:D9F2C2&height=120&section=header&text=About%20Me&fontSize=50&reversal=&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=50&fontAlignY=80&)
-
-![footer](https://capsule-render.vercel.app/api?type=slice&color=1:C9F9EE,150:ECFFFC&height=120&section=footer)
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhHyeonjun&count_bg=%2367CB7D&title_bg=%23544B49&icon=&icon_color=%23FFE2E2&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhHyeonjun&show_icons=true&theme=dark)
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
+<h3 align="center">
 ### :cloud: SNS :cloud:
-  <a href="https://newwisdom.tistory.com/"><img src="(https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat&link=https://https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a>
-
+  <a href="https://newwisdom.tistory.com/"><img src="(https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat&link=https://newwisdom.tistory.com"/></a>
+<p align="center">
 
 ![Notion](https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat/notion/url?url=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290)
 [![https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290](https://img.shields.io/badge/Mail-90EE90?style=flat&logo=naver&logoColor=white)](mailto:guswns0208@naver.com)
@@ -28,18 +23,20 @@ https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=w
 
  <a href="https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290" target="_blank"><img src="https://img.shields.io/badge/000000?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
  
-
+<p align="center">
 ### Stack
 ---
-![](https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=black&style=plastic)
-![](https://img.shields.io/badge/AWS-FFFAFA?logo=amazonaws&logoColor=black&style=plastic)
+![](https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white)&nbsp
+![](https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=black&style=plastic)&nbsp
+![](https://img.shields.io/badge/AWS-FFFAFA?logo=amazonaws&logoColor=black&style=plastic)&nbsp
 ![](https://img.shields.io/badge/docker-E0FFFF?logo=docker&logoColor=blue&style=plastic)
-![](https://img.shields.io/badge/Github-white?logo=Github&logoColor=black&style=plastic)
-![](https://img.shields.io/badge/Terraform-E6E6FA?logo=terraform&logoColor=663399&style=plastic)
-![](https://img.shields.io/badge/DevOps-00FA9A?logo=&logoColor=663399&style=plastic)
+<br>
+![](https://img.shields.io/badge/Github-white?logo=Github&logoColor=black&style=plastic)&nbsp
+![](https://img.shields.io/badge/Terraform-E6E6FA?logo=terraform&logoColor=663399&style=plastic)&nbsp
+![](https://img.shields.io/badge/DevOps-00FA9A?logo=&logoColor=663399&style=plastic)&nbsp
 ![](https://img.shields.io/badge/CI/CD-87CEFA?logo=&logoColor=663399&style=plastic)
-![](https://img.shields.io/badge/Prometheus-FFE4E1?logo=Prometheus&logoColor=B22222&style=plastic)
+<br>
+![](https://img.shields.io/badge/Prometheus-FFE4E1?logo=Prometheus&logoColor=B22222&style=plastic)&nbsp
 ![](https://img.shields.io/badge/Grafana-FFFFE0?logo=grafana&logoColor=FF6347&style=plastic)
 
 
@@ -51,6 +48,8 @@ AngularJS-powered HTML5 Markdown editor.
 - Type some Markdown on the left
 - See HTML in the right
 - ✨Magi
+</p>
+
 
 ### Who Am I
 ---
@@ -128,3 +127,6 @@ to Markdown converter
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+   
+   
+   ![footer](https://capsule-render.vercel.app/api?type=slice&color=1:C9F9EE,150:ECFFFC&height=120&section=footer)
