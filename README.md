@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1:93CBFF,150:E1FFED&height=100&section=header&text=H's%20GitHub%20Profile&fontSize=60&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=68&fontAlignY=40)
 ![header](https://capsule-render.vercel.app/api?type=slice&color=1:D5FFA2,150:D9F2C2&height=120&section=header&text=About%20Me&fontSize=50&reversal=&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=84&fontAlignY=48)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhHyeonjun&show_icons=true&theme=dark)
-
 <h3 align="center">
 
 :cloud: SNS :cloud: <br>
@@ -26,7 +23,7 @@
 
 ![](https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=black&style=plastic)
-![](https://img.shields.io/badge/AWS-FFFAFA?logo=amazonaws&logoColor=black&style=plastic)
+![](https://img.shields.io/badge/AWS-E89608?logo=amazonaws&logoColor=090909&style=plastic)
 ![](https://img.shields.io/badge/docker-E0FFFF?logo=docker&logoColor=blue&style=plastic)
 
 ![](https://img.shields.io/badge/Github-white?logo=Github&logoColor=black&style=plastic)
@@ -36,6 +33,7 @@
 
 ![](https://img.shields.io/badge/Prometheus-FFE4E1?logo=Prometheus&logoColor=B22222&style=plastic)
 ![](https://img.shields.io/badge/Grafana-FFFFE0?logo=grafana&logoColor=FF6347&style=plastic)
+![](https://img.shields.io/badge/Node.js-3B3E2E?logo=Node.js&logoColor=9AD94F&style=plastic)
 
 - [AngularJS] - HTML enhanced for web apps!
 - [Ace Editor] - awesome web-based text editor
@@ -74,6 +72,7 @@ Travel
 
 <h3 align="center">
 Features
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhHyeonjun&show_icons=true&theme=dark)
 
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
