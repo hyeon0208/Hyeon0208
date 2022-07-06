@@ -74,37 +74,87 @@ Age : 19960208<br>
 ⏱ Experience ⏱
 <p align="center">
 
-<h6 align="center">
+<h5 align="center">
 
-✔️ DevOps
+ ✔️ **DevOps** ✔️
 
-- Docker를 이용하여 애플리케이션 컨테이너화
-- GitHub Action, CodePipeline을 이용하여 배포 자동화 구축
-- Terraform을 이용하여 AWS 인프라 구축
-- GitHub를 이용하여 협업 ( 칸반보드, 이슈 활용 )
-- kubernetes를 이용하여 간단한 컨테이너 오케스트레이션 경험
-- k6를 이용한 HTTP Request 부하 테스트
-- Prometheus, Grafana를 이용하여 모니터링 시스템 구축
+Docker를 이용하여 애플리케이션 컨테이너화<br>
+" Containerizing applications with Docker "
+  
+GitHub Action, CodePipeline을 이용하여 배포 자동화 구축<br>
+" Build deployment automation using GitHub Action and CodePipeline "
+  
+Terraform을 이용하여 AWS 인프라 구축<br>
+" Building AWS Infrastructure Using Terraform "
 
-✔️ AWS
+GitHub를 이용하여 협업 ( 칸반보드, 이슈 활용 )<br>
+" Collaborate using GitHub (Kanban board, use of issues) "
 
-- CloudFormation template을 활용하여 인프라 관리
-- SAM(Serverless Application Model)을 활용하여 Lambda 배포
-- Lambda를 이용해 트리거 발생시 함수를 실행하여 Discord 웹훅 구현
-- AWS 리소스를 이해하여 MSA 아키텍처 구현
-- Cost Explorer를 이용하여 리소스 비용 관리
-- OpenSearch를 이용해 로그를 필터링하여 대쉬보드로 확인
-- 부하 분산을 위한 ELB 와 수평 확장을 위한 Auto Scailng 연결
-- Route53과 ACM을 이용해 HTTPS 서버 구현
-- Routing Table, IGW, NAT 을 이용해 VPC 구성 및 Private, Public Subnet 구성
-- VPC peering 을 이용하여 VPC 간 내부 통신
-- AMI를 생성하여 인스턴스 복제 및 EC2 마이그레이션
+kubernetes를 이용하여 간단한 컨테이너 오케스트레이션 경험<br>
+" Simple container orchestration experience using kubernetes "
 
-✔️ Backend
+k6를 이용한 HTTP Request 부하 테스트<br>
+" HTTP Request Load Testing with k6 "
 
-- My SQL, MongoDB와 node.js로  WAS 서버 구현
-- node.js를 이용하여 3-tier 아키텍처 구현
-- Nginx를 이용하여 간단한 정적 웹서버 구현
+Prometheus, Grafana를 이용하여 모니터링 시스템 구축<br>
+" Building a monitoring system using Prometheus and Grafana "
+
+<br>
+
+
+✔️ **AWS** ✔️
+
+CloudFormation template을 활용하여 인프라 관리<br>
+" Infrastructure management using CloudFormation template "
+
+SAM(Serverless Application Model)을 활용하여 Lambda 배포<br>
+" SAM(Serverless Application Model)을 활용하여 Lambda 배포 "
+
+Lambda를 이용해 트리거 발생시 함수를 실행하여 Discord 웹훅 구현<br>
+" Implement a Discord webhook by executing a function when a trigger occurs using Lambda "
+
+AWS 리소스를 이해하고 MSA 아키텍처 구현<br>
+" Understand AWS resources and implement an MSA architecture "
+
+Cost Explorer를 이용하여 리소스 비용 관리<br>
+" Manage resource costs with Cost Explorer "
+
+OpenSearch를 이용해 로그를 필터링하여 대쉬보드로 확인<br>
+" Use OpenSearch to filter logs and view them in a dashboard "
+
+부하 분산을 위한 Load Balancer와 수평 확장을 위한 Auto Scailng 연결<br>
+" Connecting Load Balancer for load balancing and Auto Scaling for scale-out "
+
+Route53과 ACM을 이용해 HTTPS 서버 구현<br>
+" Implementing an HTTPS server using Route53 and ACM "
+
+
+Routing Table, IGW, NAT 을 이용해 VPC 구성 및 Private, Public Subnet 구성<br>
+" VPC configuration and Private, Public Subnet configuration using Routing Table, IGW, NAT "
+
+
+VPC peering 을 이용하여 VPC 간 내부 통신<br>
+" Internal communication between VPCs using VPC peering "
+
+
+AMI를 생성하여 인스턴스 복제 및 EC2 마이그레이션<br>
+" Creating an AMI to Clone Instances and Migrate to EC2 "
+
+<br>
+
+
+✔️ **Backend** ✔️
+
+My SQL, MongoDB와 node.js로  WAS 서버 구현<br>
+" WAS server implementation with My SQL, MongoDB and node.js "
+
+node.js를 이용하여 3-tier 아키텍처 구현<br>
+" Implementing a 3-tier architecture using node.js "
+
+
+Nginx를 이용하여 간단한 정적 웹서버 구현<br>
+" Implementing a simple static web server using Nginx "
+
 <p align="center">
 
 <br>
