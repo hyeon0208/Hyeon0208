@@ -11,10 +11,8 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-### SNS
----
-
-  <a href="https://newwisdom.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>&nbsp
+### :cloud: SNS :cloud:
+  <a href="https://newwisdom.tistory.com/"><img src="(https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat&link=https://https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a>
 
 
 ![Notion](https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat/notion/url?url=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290)
