@@ -7,7 +7,7 @@
 <h4 align="center">
 I am interested in DevOps, which places importance on communication, collaboration. 👥<br> 
 so DevOps completed the curriculum and studying AWS cloud services. ✍🏻<br>
-for I am passionate about acquiring and sharing new knowledge ❤️‍🔥,<br>
+for I am passionate about acquiring and sharing new knowledge ❤️‍🔥, <br>
 i am operating blog for the process of handling errors that we experienced while implementing services 💡<br>
 or for sharing and reviewing new knowledge. 🤝<br>
  You can see my activities through SNS category below 🌻<br>
