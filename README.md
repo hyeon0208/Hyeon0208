@@ -71,7 +71,7 @@ Age : 19960208<br>
 ![](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=plastic)
 
 ![](https://img.shields.io/badge/Linux-white?style=plastic&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Terraform-E6E6FA?logo=terraform&logoColor=663399&style=plastic)
+![](https://img.shields.io/badge/Terraform-BE9DCA?logo=terraform&logoColor=663399&style=plastic)
 
 <p align="center">
 <br>
