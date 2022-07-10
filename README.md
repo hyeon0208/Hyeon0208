@@ -70,9 +70,8 @@ Age : 19960208<br>
 ![](https://img.shields.io/badge/Node.js-3B3E2E?logo=Node.js&logoColor=9AD94F&style=plastic)
 ![](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=plastic)
 
-![](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Linux-white?style=plastic&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Terraform-E6E6FA?logo=terraform&logoColor=663399&style=plastic)
-![](https://img.shields.io/badge/Shellscrips-E6E6FA?logo=bash&logoColor=663399&style=plastic)
 
 <p align="center">
 <br>
