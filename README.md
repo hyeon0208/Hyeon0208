@@ -61,13 +61,18 @@ Age : 19960208<br>
 ![](https://img.shields.io/badge/docker-E0FFFF?logo=docker&logoColor=blue&style=plastic)
 
 ![](https://img.shields.io/badge/Github-white?logo=Github&logoColor=black&style=plastic)
-![](https://img.shields.io/badge/Terraform-E6E6FA?logo=terraform&logoColor=663399&style=plastic)
+![](https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=black)
 ![](https://img.shields.io/badge/DevOps-00FA9A?logo=&logoColor=663399&style=plastic)
 ![](https://img.shields.io/badge/CI/CD-87CEFA?logo=&logoColor=663399&style=plastic)
 
 ![](https://img.shields.io/badge/Prometheus-FFE4E1?logo=Prometheus&logoColor=B22222&style=plastic)
 ![](https://img.shields.io/badge/Grafana-FFFFE0?logo=grafana&logoColor=FF6347&style=plastic)
 ![](https://img.shields.io/badge/Node.js-3B3E2E?logo=Node.js&logoColor=9AD94F&style=plastic)
+![](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=plastic)
+
+![](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Terraform-E6E6FA?logo=terraform&logoColor=663399&style=plastic)
+![](https://img.shields.io/badge/Shellscrips-E6E6FA?logo=bash&logoColor=663399&style=plastic)
 
 <p align="center">
 <br>
@@ -102,6 +107,9 @@ k6를 이용한 HTTP Request 부하 테스트<br>
 
 Prometheus, Grafana를 이용하여 모니터링 시스템 구축<br>
 " Building a monitoring system using Prometheus and Grafana "
+
+Shell Scripts를 작성하여 업무 자동화<br>
+" Automate tasks by writing Shell Scripts "
 
 <br>
 
