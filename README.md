@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1:D5FFA2,160:93CBFF&height=130&section=header&text=H's%20GitHub%20Profile&fontSize=47&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=75&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=20:91BFA2,160:D5FFA2&height=130&section=header&text=H's%20GitHub%20Profile&fontSize=47&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=75&fontAlignY=40)
 
 <h3 align="center">
 🙌🏻 Hey there 🙌🏻 <br>
