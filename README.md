@@ -74,6 +74,10 @@ Age : 19960208<br>
 
 ![](https://img.shields.io/badge/Linux-white?style=plastic&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Terraform-BE9DCA?logo=terraform&logoColor=663399&style=plastic)
+![](https://img.shields.io/badge/Kubernetes-00AFF0?logo=Kubernetes&logoColor=#326CE5&style=plastic)
+![](https://img.shields.io/badge/bash_shell-00DD00?logo=bash&logoColor=14CC80&style=plastic)
+
+
 
 <p align="center">
 <br>
