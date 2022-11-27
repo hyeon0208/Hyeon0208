@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=20:91BFA2,160:D5FFA2&height=130&section=header&text=H's%20GitHub%20Profile&fontSize=47&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=75&fontAlignY=40)
 
+<img width="100%" src="https://user-images.githubusercontent.com/99153215/204120348-8b3085c5-3f3f-4d3c-bc93-30b6ced720cf.gif"/>
+
 <h3 align="center">
 🙌🏻 Hey there 🙌🏻 <br>
 <p align="center">
@@ -41,12 +43,12 @@ Age : 19960208<br>
 
 
 
- <a href="https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"><img src="https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat&link=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a>
- <a href="https://www.instagram.com/hye0__n/"><img src="https://img.shields.io/badge/instagram-F1C2FF.svg?logo=instagram&logoColor=pupple&style=flat&link=https://www.instagram.com/hye0__n/"/></a>
- <a href="https://hstory0208.tistory.com/"><img src="https://img.shields.io/badge/Tistory-white.svg?logo=tistory&logoColor=black&style=flat&link=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a>
-  <br>
- [![https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290](https://img.shields.io/badge/Naver-90EE90?style=flat&logo=naver&logoColor=white)](mailto:guswns0208@naver.com)
- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dmsgktn0208@gmail.com)
+<a href="https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"><img src="https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat&link=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a>
+<a href="https://www.instagram.com/hye0__n/"><img src="https://img.shields.io/badge/instagram-F1C2FF.svg?logo=instagram&logoColor=pupple&style=flat&link=https://www.instagram.com/hye0__n/"/></a>
+<a href="https://hstory0208.tistory.com/"><img src="https://img.shields.io/badge/Tistory-white.svg?logo=tistory&logoColor=black&style=flat&link=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a>
+<br>
+[![https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290](https://img.shields.io/badge/Naver-90EE90?style=flat&logo=naver&logoColor=white)](mailto:guswns0208@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dmsgktn0208@gmail.com)
 
 
 <p align="center">
@@ -59,20 +61,19 @@ Age : 19960208<br>
 <p align="center">
 🛠 Stack 🛠
 
-![](https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=black&style=plastic)
-![](https://img.shields.io/badge/AWS-E89608?logo=amazonaws&logoColor=090909&style=plastic)
-![](https://img.shields.io/badge/docker-E0FFFF?logo=docker&logoColor=blue&style=plastic)
+![](https://img.shields.io/badge/Java-FFFFFF?logo=OpenJDK&logoColor=black&style=plastic)
+![](https://img.shields.io/badge/Node.js-3B3E2E?logo=Node.js&logoColor=9AD94F&style=plastic)
 
+![](https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Github-white?logo=Github&logoColor=black&style=plastic)
 ![](https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=black)
-![](https://img.shields.io/badge/DevOps-00FA9A?logo=&logoColor=663399&style=plastic)
-![](https://img.shields.io/badge/CI/CD-87CEFA?logo=&logoColor=663399&style=plastic)
 
+
+![](https://img.shields.io/badge/AWS-E89608?logo=amazonaws&logoColor=090909&style=plastic)
+![](https://img.shields.io/badge/docker-E0FFFF?logo=docker&logoColor=blue&style=plastic)
 ![](https://img.shields.io/badge/Prometheus-FFE4E1?logo=Prometheus&logoColor=B22222&style=plastic)
 ![](https://img.shields.io/badge/Grafana-FFFFE0?logo=grafana&logoColor=FF6347&style=plastic)
-![](https://img.shields.io/badge/Node.js-3B3E2E?logo=Node.js&logoColor=9AD94F&style=plastic)
-![](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=plastic)
 
 ![](https://img.shields.io/badge/Linux-white?style=plastic&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Terraform-BE9DCA?logo=terraform&logoColor=663399&style=plastic)
@@ -92,14 +93,14 @@ Age : 19960208<br>
 
 <h5 align="center">
 
- ✔️ **DevOps** ✔️
+✔️ **DevOps** ✔️
 
 Docker를 이용하여 애플리케이션 컨테이너화<br>
 " Containerizing applications with Docker "
-  
+
 GitHub Action, CodePipeline을 이용하여 배포 자동화 구축<br>
 " Build deployment automation using GitHub Action and CodePipeline "
-  
+
 Terraform을 이용하여 AWS 인프라 구축<br>
 " Building AWS Infrastructure Using Terraform "
 
@@ -182,9 +183,9 @@ Nginx를 이용하여 간단한 정적 웹서버 구현<br>
 
 <h3 align="center">
 
- 🎈 My Hobby 🎈 <br>
- 
- 
+🎈 My Hobby 🎈 <br>
+
+
 ![](https://img.shields.io/badge/Camping-F7FEFD?logo=&logoColor=FF6347&style=flat)
 ![](https://img.shields.io/badge/Travel-F7FEFD?logo=&logoColor=FF6347&style=flat)
 ![](https://img.shields.io/badge/Game-F7FEFD?logo&logoColor=FF6347&style=flat)
@@ -207,26 +208,26 @@ Nginx를 이용하여 간단한 정적 웹서버 구현<br>
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
+[dill]: <https://github.com/joemccann/dillinger>
+[git-repo-url]: <https://github.com/joemccann/dillinger.git>
+[john gruber]: <http://daringfireball.net>
+[df1]: <http://daringfireball.net/projects/markdown/>
+[markdown-it]: <https://github.com/markdown-it/markdown-it>
+[Ace Editor]: <http://ace.ajax.org>
+[node.js]: <http://nodejs.org>
+[Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
+[jQuery]: <http://jquery.com>
+[@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
+[express]: <http://expressjs.com>
+[AngularJS]: <http://angularjs.org>
+[Gulp]: <http://gulpjs.com>
 
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
-   
-   
-   ![footer](https://capsule-render.vercel.app/api?type=slice&color=1:C9F9EE,150:ECFFFC&height=120&section=footer)
+[PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+[PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
+[PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
+[PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+[PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
+[PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=1:C9F9EE,150:ECFFFC&height=120&section=footer)
