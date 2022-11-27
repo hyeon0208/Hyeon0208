@@ -203,4 +203,4 @@ Nginx를 이용하여 간단한 정적 웹서버 구현<br>
 [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=1:C9F9EE,150:ECFFFC&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=Rect&color=20:F5E8E5,160:D8D3CA&height=22&section=footer)
