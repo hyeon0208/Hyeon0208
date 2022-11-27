@@ -1,25 +1,25 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=20:91BFA2,160:D5FFA2&height=130&section=header&text=H's%20GitHub%20Profile&fontSize=47&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=75&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=20:F5E8E5,160:D8D3CA&height=70&section=header&text=🖐🏻%20Hey%20there%20🖐🏻&fontSize=30&reversal=true&section=footer&animation=twinkling&fontColor=130B1C&fontAlign=50&fontAlignY=47)
 
-<img width="100%" src="https://user-images.githubusercontent.com/99153215/204120665-30468795-b102-4b70-967c-d8013f53411a.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/99153215/204121703-7a4b2da4-d41b-4dac-ab82-ac3c3d0ae93f.gif"/>
 
 <h3 align="center">
-🙌🏻 Hey there 🙌🏻 <br>
+💻 Developers who want to grow steadily 💻
+<p align="center">
+
+<h5 align="center">
+I am Hyeon jun Suh, who started development as a non-major.<br>
+I like to communicate with various people.<br>
+So, in order to be of some help to those who have a hard time starting development as a non-major like me,<br> 
+I am posting on my Tistory blog by explaining the newly acquired knowledge in an easy way ✏ <br><br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhHyeonjun&count_bg=%2367CB7D&title_bg=%23544B49&icon=&icon_color=%23FFE2E2&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com) <br>
+
 <p align="center">
 
 <h4 align="center">
-I am Hyeon jun Suh, who started development as a non-major.
-I like to communicate with various people.<br>
-So, in order to be of some help to those who have a hard time starting development as a non-major like me,<br> 
-I am posting on my Tistory blog by explaining the newly acquired knowledge in an easy way.<br>
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhHyeonjun&count_bg=%2367CB7D&title_bg=%23544B49&icon=&icon_color=%23FFE2E2&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<p align="center">
-
-<h3 align="center">
 
 :cloud: SNS :cloud: <br>
+  
 <a href="https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"><img src="https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat&link=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a>
 <a href="https://www.instagram.com/hye0__n/"><img src="https://img.shields.io/badge/instagram-F1C2FF.svg?logo=instagram&logoColor=pupple&style=flat&link=https://www.instagram.com/hye0__n/"/></a>
 <a href="https://hstory0208.tistory.com/"><img src="https://img.shields.io/badge/Tistory-white.svg?logo=tistory&logoColor=black&style=flat&link=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a>
@@ -60,7 +60,7 @@ I am posting on my Tistory blog by explaining the newly acquired knowledge in an
 
 ***
 
-<h3 align="center">
+<h4 align="center">
 ⏱ Experience ⏱
 <p align="center">
 
@@ -154,7 +154,7 @@ Nginx를 이용하여 간단한 정적 웹서버 구현<br>
 
 ***
 
-<h3 align="center">
+<h4 align="center">
 
 🎈 My Hobby 🎈 <br>
 
@@ -170,7 +170,7 @@ Nginx를 이용하여 간단한 정적 웹서버 구현<br>
 
 ***
 
-<h3 align="center">
+<h4 align="center">
 
 🍏 Features 🍏
 
