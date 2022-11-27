@@ -1,48 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=20:91BFA2,160:D5FFA2&height=130&section=header&text=H's%20GitHub%20Profile&fontSize=47&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=75&fontAlignY=40)
 
-<img width="100%" src="https://user-images.githubusercontent.com/99153215/204120348-8b3085c5-3f3f-4d3c-bc93-30b6ced720cf.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/99153215/204120665-30468795-b102-4b70-967c-d8013f53411a.gif"/>
 
 <h3 align="center">
 🙌🏻 Hey there 🙌🏻 <br>
 <p align="center">
 
 <h4 align="center">
-I am interested in DevOps, which places importance on communication, collaboration. 👥<br> 
-so DevOps completed the curriculum and studying AWS cloud services. ✍🏻<br>
-for I am passionate about acquiring and sharing new knowledge ❤️‍🔥, <br>
-i am operating blog for the process of handling errors that we experienced while implementing services 💡<br>
-or for sharing and reviewing new knowledge. 🤝<br>
- You can see my activities through SNS category below 🌻<br>
- I'm always welcome if you send me feedback on the contents I wrote by mail. 🍀
-<p align="center">
-
+I am Hyeon jun Suh, who started development as a non-major.
+I like to communicate with various people.<br>
+So, in order to be of some help to those who have a hard time starting development as a non-major like me,<br> 
+I am posting on my Tistory blog by explaining the newly acquired knowledge in an easy way.<br>
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=1:D5FFA2,150:91BFA2&height=120&section=header&text=About%20Me&fontSize=50&reversal=&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=84&fontAlignY=48)
-
-<h3 align="center">
-
-🙋🏻‍♂️ information 🙋🏻‍♂️
-<p align="center">
-
-<h5 align="center">
-
-Eglish Name : Hyeon Jun Suh<br>
-Korea Name : 서현준<br>
-Age : 19960208<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhHyeonjun&count_bg=%2367CB7D&title_bg=%23544B49&icon=&icon_color=%23FFE2E2&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com) <br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhHyeonjun&count_bg=%2367CB7D&title_bg=%23544B49&icon=&icon_color=%23FFE2E2&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="center">
-
-***
 
 <h3 align="center">
 
 :cloud: SNS :cloud: <br>
-
-
-
 <a href="https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"><img src="https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat&link=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a>
 <a href="https://www.instagram.com/hye0__n/"><img src="https://img.shields.io/badge/instagram-F1C2FF.svg?logo=instagram&logoColor=pupple&style=flat&link=https://www.instagram.com/hye0__n/"/></a>
 <a href="https://hstory0208.tistory.com/"><img src="https://img.shields.io/badge/Tistory-white.svg?logo=tistory&logoColor=black&style=flat&link=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a>
@@ -50,11 +27,7 @@ Age : 19960208<br>
 [![https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290](https://img.shields.io/badge/Naver-90EE90?style=flat&logo=naver&logoColor=white)](mailto:guswns0208@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dmsgktn0208@gmail.com)
 
-
 <p align="center">
-
-
-<br>
 
 ***
 
