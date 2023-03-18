@@ -7,12 +7,13 @@
 <p align="center">
 
 <h5 align="center">
-I am Hyeon jun Suh, who started development as a non-major.<br>
+I am Hyeon, who started development as a non-major.<br>
 I like to communicate with various people.<br>
 So, in order to be of some help to those who have a hard time starting development as a non-major like me,<br> 
 I am posting on my Tistory blog by explaining the newly acquired knowledge in an easy way ✏ <br><br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhHyeonjun&count_bg=%2367CB7D&title_bg=%23544B49&icon=&icon_color=%23FFE2E2&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com) <br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeon0208
+&count_bg=%2367CB7D&title_bg=%23544B49&icon=&icon_color=%23FFE2E2&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com) <br>
 
 <p align="center">
 
@@ -174,7 +175,7 @@ Nginx를 이용하여 간단한 정적 웹서버 구현<br>
 
 🍏 Features 🍏
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhHyeonjun&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeon0208&show_icons=true&theme=dark)
 
 
 <p align="center">
