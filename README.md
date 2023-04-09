@@ -40,10 +40,9 @@ I am posting on my Tistory blog by explaining the newly acquired knowledge in an
 ![](https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white)
 
 ![](https://img.shields.io/badge/Github-white?logo=Github&logoColor=black&style=plastic)
-![](https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=black)
 ![](https://img.shields.io/badge/Linux-white?style=plastic&logo=linux&logoColor=black)
-
 ![](https://img.shields.io/badge/AWS-E89608?logo=amazonaws&logoColor=090909&style=plastic)
+  
 ![](https://img.shields.io/badge/docker-E0FFFF?logo=docker&logoColor=blue&style=plastic)
 ![](https://img.shields.io/badge/Terraform-BE9DCA?logo=terraform&logoColor=663399&style=plastic)
 ![](https://img.shields.io/badge/Prometheus-FFE4E1?logo=Prometheus&logoColor=B22222&style=plastic)
