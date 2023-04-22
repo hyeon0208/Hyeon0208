@@ -58,6 +58,6 @@ I am posting on my Tistory blog by explaining the newly acquired knowledge in an
 
 🍏 Features 🍏
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=Rect&color=20:F5E8E5,160:D8D3CA&height=22&section=footer)
