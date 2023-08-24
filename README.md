@@ -7,10 +7,13 @@
 <p align="center">
 
 <h5 align="center">
-I am Hyeon, who started development as a non-major.<br>
-I like to communicate with various people.<br>
-So, in order to be of some help to those who have a hard time starting development as a non-major like me,<br> 
-I am posting on my Tistory blog by explaining the newly acquired knowledge in an easy way ✏ <br><br>
+Hi there 🖐🏻.<br>
+I'm a backend developer using java spring.<br>
+I understand the flow of the web by implementing web services using thymeleaf, jquery, Spring.<br>
+What I like is communicating with various people.<br>
+So, I am posting a blog post to help others with the newly learned knowledge and the difficult process through learning. <br>
+And I try to explain the contents of the post in an easy-to-understand way as much as possible. ✏ <br>
+If you are interested, please click the Tistory badge at the bottom to visit us. Thank you 🙇🏻‍♂️ <br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeon0208&count_bg=%2367CB7D&title_bg=%23544B49&icon=&icon_color=%23FFE2E2&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com) <br>
 
@@ -38,6 +41,9 @@ I am posting on my Tistory blog by explaining the newly acquired knowledge in an
 ![](https://img.shields.io/badge/Spring-3B3E2E?logo=Spring&logoColor=9AD94F&style=plastic)
 ![](https://img.shields.io/badge/SpringBoot-3B3E2E?logo=SpringBoot&logoColor=9AD94F&style=plastic)
 ![](https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white)
+
+![](https://img.shields.io/badge/thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=#005F0F)
+![](https://img.shields.io/badge/jquery-0769AD?style=plastic&logo=jquery&logoColor=#0769AD)
 
 ![](https://img.shields.io/badge/Github-white?logo=Github&logoColor=black&style=plastic)
 ![](https://img.shields.io/badge/Linux-white?style=plastic&logo=linux&logoColor=black)
