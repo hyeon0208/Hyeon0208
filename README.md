@@ -44,6 +44,7 @@ If you are interested, please click the Tistory badge at the bottom to visit us.
 
 ![](https://img.shields.io/badge/thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=#005F0F)
 ![](https://img.shields.io/badge/jquery-0769AD?style=plastic&logo=jquery&logoColor=#0769AD)
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=plastic&logo=firebase&logoColor=white">
 
 ![](https://img.shields.io/badge/Github-white?logo=Github&logoColor=black&style=plastic)
 ![](https://img.shields.io/badge/Linux-white?style=plastic&logo=linux&logoColor=black)
