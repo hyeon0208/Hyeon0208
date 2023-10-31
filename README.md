@@ -61,9 +61,12 @@ If you are interested, please click the Tistory badge at the bottom to visit us.
 ***
   
 <h4 align="center">
-
+  
+<!--
 🍏 Features 🍏
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![footer](https://capsule-render.vercel.app/api?type=Rect&color=20:F5E8E5,160:D8D3CA&height=22&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=Rect&color=20:F5E8E5,160:D8D3CA&height=22&section=footer) 
+-->
+
