@@ -57,9 +57,7 @@ If you are interested, please click the Tistory badge at the bottom to visit us.
 
 <p align="center">
 <br>
-  
-***
-  
+    
 <h4 align="center">
   
 <!--
