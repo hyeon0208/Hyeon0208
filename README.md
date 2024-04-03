@@ -39,21 +39,20 @@ If you are interested, please click the Tistory badge at the bottom to visit us.
 ![](https://img.shields.io/badge/Java-FFFFFF?logo=OpenJDK&logoColor=black&style=plastic)
 ![](https://img.shields.io/badge/Spring-3B3E2E?logo=Spring&logoColor=9AD94F&style=plastic)
 ![](https://img.shields.io/badge/SpringBoot-3B3E2E?logo=SpringBoot&logoColor=9AD94F&style=plastic)
+
 ![](https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white)
-
 ![](https://img.shields.io/badge/thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=#005F0F)
-![](https://img.shields.io/badge/jquery-0769AD?style=plastic&logo=jquery&logoColor=#0769AD)
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=plastic&logo=firebase&logoColor=white">
+![](https://img.shields.io/badge/AWS-E89608?logo=amazonaws&logoColor=090909&style=plastic)
+![](https://img.shields.io/badge/docker-E0FFFF?logo=docker&logoColor=blue&style=plastic)
 
+<!-- 
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=plastic&logo=firebase&logoColor=white">
 ![](https://img.shields.io/badge/Github-white?logo=Github&logoColor=black&style=plastic)
 ![](https://img.shields.io/badge/Linux-white?style=plastic&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/AWS-E89608?logo=amazonaws&logoColor=090909&style=plastic)
-  
-![](https://img.shields.io/badge/docker-E0FFFF?logo=docker&logoColor=blue&style=plastic)
 ![](https://img.shields.io/badge/Terraform-BE9DCA?logo=terraform&logoColor=663399&style=plastic)
 ![](https://img.shields.io/badge/Prometheus-FFE4E1?logo=Prometheus&logoColor=B22222&style=plastic)
 ![](https://img.shields.io/badge/Grafana-FFFFE0?logo=grafana&logoColor=FF6347&style=plastic)
-  
+-->
 
 <p align="center">
 <br>
