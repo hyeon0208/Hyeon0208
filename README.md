@@ -23,7 +23,7 @@ If you are interested, please click the Tistory badge at the bottom to visit us.
 
 :cloud: SNS :cloud: <br>
   
-<a href="https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290" target="_blank"><img src="https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat&link=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a>
+<!-- <a href="https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290" target="_blank"><img src="https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat&link=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a> -->
 <a href="https://hstory0208.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/기술 블로그-white.svg?logo=tistory&logoColor=black&style=flat&link=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a>
  <!-- <a href="https://www.instagram.com/hye0__n/"><img src="https://img.shields.io/badge/instagram-F1C2FF.svg?logo=instagram&logoColor=pupple&style=flat&link=https://www.instagram.com/hye0__n/"/></a> -->
 
