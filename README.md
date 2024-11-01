@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=20:F5E8E5,160:D8D3CA&height=70&section=header&text=🖐🏻%20Hey%20there%20🖐🏻&fontSize=30&reversal=true&section=footer&animation=twinkling&fontColor=130B1C&fontAlign=50&fontAlignY=47)
+<!-- ![header](https://capsule-render.vercel.app/api?type=Rect&color=20:F5E8E5,160:D8D3CA&height=70&section=header&text=🖐🏻%20Hey%20there%20🖐🏻&fontSize=30&reversal=true&section=footer&animation=twinkling&fontColor=130B1C&fontAlign=50&fontAlignY=47) -->
 
 <img width="100%" src="https://user-images.githubusercontent.com/99153215/204121703-7a4b2da4-d41b-4dac-ab82-ac3c3d0ae93f.gif"/>
 
