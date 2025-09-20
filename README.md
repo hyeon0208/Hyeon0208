@@ -16,18 +16,21 @@
 
 :cloud: SNS :cloud: <br>
   
-<!-- <a href="https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290" target="_blank"><img src="https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat&link=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a> -->
 <a href="https://hstory0208.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/기술 블로그-white.svg?logo=tistory&logoColor=black&style=flat&link=https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dmsgktn0208@gmail.com)
 
+<!-- 
 <p align="center">
 
 ***
 
+
 <p align="center">
 🛠 Stack 🛠
+-->
 
 <!-- 뱃지 링크 : https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file -->
+<!-- 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
@@ -36,6 +39,7 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+-->
 
 <!-- 
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=plastic&logo=firebase&logoColor=white">
@@ -51,11 +55,3 @@
     
 <h4 align="center">
   
-<!--
-🍏 Features 🍏
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-![footer](https://capsule-render.vercel.app/api?type=Rect&color=20:F5E8E5,160:D8D3CA&height=22&section=footer) 
--->
-
